@@ -1,8 +1,25 @@
 body{
-  background-color: gold;
+  background-color: #FBC02D;
   color: white ;
+  font-family: 'Saira Semi Condensed';
 }
 a{color: white;}
-COCO{
-  text-align: NONE;
+.COCO{
+float: 20%;
+}
+.card-body{
+
+}
+.nuts h1{
+  font-size: 5.5rem;
+}
+.btn-outline-dark{
+  background-color: #FBC02D;
+}
+.btn-outline-dark:hover{
+  background-color: white;
+  color: black;
+}
+.col-8{
+  padding: 0;
 }
